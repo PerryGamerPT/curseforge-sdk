@@ -274,3 +274,5 @@ const client = new CurseForgeSDK({ apiKey: process.env.CURSEFORGE_API_KEY });
 Contributions are welcome. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a pull request.
 
 The repository uses Conventional Commits and semantic-release to keep versioning and changelogs automated.
+
+#be happy
