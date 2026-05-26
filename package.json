@@ -1,6 +1,6 @@
 {
   "name": "curseforge-sdk",
-  "version": "0.0.0-development",
+  "version": "2.0.0",
   "description": "Enterprise-grade TypeScript SDK for the official CurseForge API v1. ",
   "author": "PerryGamerPT",
   "license": "MIT",
